@@ -18,9 +18,7 @@ A motivated, ardent and creative web developer with a track record of creating a
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [favournelson82@gmail.com](mailto:favournelson82@gmail.com)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Others on interesting projects 🛠️️
-* ⚡  Launching my tech company very soon🤭
 
 ### Skills
 
