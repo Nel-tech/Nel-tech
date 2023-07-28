@@ -11,14 +11,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is Nelson
 ==============================================================================================================================
 
-Frontend Developer 👨‍💻
+A Frontend Developer 👨‍💻
 ------------------------
 
 I am a highly motivated and creative web developer with a proven track record of crafting stunning websites that encourage user interaction. My passion lies in writing code and bringing animated designs to life. Beyond coding, I find joy in listening to music and playing games during my free time
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [favournelson82@gmail.com](mailto:favournelson82@gmail.com)
-* 🤝  I am an enthusiastic individual open to collaborative opportunities on exciting projects. I thrive on teamwork and am eager to 
+* 🤝  I am an enthusiast, open to collaborative opportunities on exciting projects. I thrive on teamwork and am eager to 
        join forces with others to work on innovative ventures 🛠️️
 
 ### Skills
