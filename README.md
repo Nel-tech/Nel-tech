@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer 👨‍💻
 ------------------------
 
-A motivated, ardent and creative web developer with a track record of creating and designing stunning websites in which users can interact with. I enjoy writing codes and bringing out live animated designs with them. Asides from this, in my freetime i enjoy listening to music,and playing games
+I am a highly motivated and creative web developer with a proven track record of crafting stunning websites that encourage user interaction. My passion lies in writing code and bringing animated designs to life. Beyond coding, I find joy in listening to music and playing games during my free time
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [favournelson82@gmail.com](mailto:favournelson82@gmail.com)
