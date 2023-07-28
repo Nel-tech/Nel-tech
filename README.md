@@ -18,7 +18,8 @@ I am a highly motivated and creative web developer with a proven track record of
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [favournelson82@gmail.com](mailto:favournelson82@gmail.com)
-* 🤝  I'm open to collaborating on Others on interesting projects 🛠️️
+* 🤝  I am an enthusiastic individual open to collaborative opportunities on exciting projects. I thrive on teamwork and am eager to 
+       join forces with others to work on innovative ventures 🛠️️
 
 ### Skills
 
