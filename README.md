@@ -1,33 +1,23 @@
 
-![code](https://user-images.githubusercontent.com/105425710/221981190-6c69dd9a-d85c-452e-8cf6-f7efcd5b9fdd.GIF)
 
 <div>
-<h1>Hi 👋 from Favour. </h1>
+<h1>Hi 👋 from Nelson. </h1>
 
 <h2>🌟 Intro</h2>
  <p>
-
-I bring my passion for crafting intuitive and interactive web experiences to life with cutting-edge front-end technologies. I translate complex problems into responsive and user-friendly interfaces, constantly seeking self-improvement to stay ahead of the curve. My expertise lies in:
-
-<ul>
-<li>
-Ensuring pixel-perfect visuals: Responsive design and cross-browser compatibility
-</li>
-
-<li>
-Staying ahead of the game: Continuous learning and exploration of new technologies	
-</li>
-</ul>
+I build full-stack applications that don’t just work—they flow. With Next.js and Node.js, I craft seamless digital experiences users love. From optimizing queries to designing pixel-perfect UIs and scaling deployments, I write code that’s both efficient and elegant. Always iterating, always innovating—because ‘good enough’ is never in my repo
 </p>
 
 <h2>🚀 Skills</h2>
 
 <ul>
-<li>Front-end: React, Redux, HTML5, CSS3, SASS, JavaScript</li>
+<li>Front-end: React,Nextjs,TailwindCSS</li>
 	
-<li>Dev Tools: Git, shell, VSCode, Heroku, Netlify</li>
+<li>Backend: Node.js, Express.js, MongoDB, Mongoose, Firebase</li>
 
-<li>Languages: Python, JavaScript, Java, PHP</li>
+<li>Tools: Git & GitHub</li>
+
+<li>Testing: Jest / Cypress (for frontend & backend testing</li>
 </ul>
 
 <h2>📫 Get in touch</h2>
