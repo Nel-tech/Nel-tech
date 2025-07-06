@@ -24,7 +24,7 @@ I build full-stack apps that feel as good as they look. With Next.js and Node.js
   <li>
     💼 <strong>LinkedIn:</strong> 
     <a href="https://www.linkedin.com/in/nelson-adegbasa/" target="_blank" class="text-blue-600 hover:underline">
-      linkedin.com/in/favour-nelson
+      linkedin.com/in/Nelson-Adegbasa
     </a>
   </li>
   
