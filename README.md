@@ -11,11 +11,13 @@ I build full-stack apps that feel as good as they look. With Next.js and Node.js
 <h2>🚀 Skills</h2>
 
 <ul class="list-disc pl-5 space-y-1 text-gray-700">
+  <li><strong>Languages:</strong> JavaScript, TypeScript, Python, HTML, CSS, SQL</li>
   <li><strong>Frontend:</strong> Next.js, React, Tailwind CSS</li>
-  <li><strong>Backend:</strong> Node.js, Express, Prisma, Firebase</li>
+  <li><strong>Backend:</strong> Node.js, Express, FastAPI, Prisma, Firebase</li>
   <li><strong>Database:</strong> PostgreSQL, MongoDB</li>
   <li><strong>Tools:</strong> Git, Vercel</li>
 </ul>
+
 
 
 <h2 class="text-xl font-semibold mb-3">📫 Get in touch</h2>
