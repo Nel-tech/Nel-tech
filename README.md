@@ -38,13 +38,6 @@ I build full-stack apps that feel as good as they look. With Next.js and Node.js
   </li>
 
   <li>
-    🌐 <strong>Website:</strong> 
-    <a href="https://favour-mu.vercel.app" target="_blank" class="text-blue-600 hover:underline">
-      favour-mu.vercel.app
-    </a>
-  </li>
-
-  <li>
     🐦 <strong>X (Twitter):</strong> 
     <a href="https://x.com/manlike_favour?s=09" target="_blank" class="text-blue-600 hover:underline">
       @manlike_favour
