@@ -5,7 +5,13 @@
 
 <h2>🌟 Intro</h2>
  <p>
-I build full-stack apps that feel as good as they look. With Next.js and Node.js, I create fast, fluid experiences from clean UIs to optimized queries and scalable backends. I don’t just write code I craft flow. Always improving, never settling
+I build fullstack web apps that are as polished on the frontend as they are powerful under the hood.
+
+From crafting responsive, scroll-friendly interfaces to designing fast, scalable backend systems, I care about performance, flow, and clean code.
+
+I turn designs into intuitive experiences, connect them to solid APIs, and deploy everything with speed and precision.
+
+Always learning. Always building. Always shipping.
 </p>
 
 <h2>🚀 Skills</h2>
