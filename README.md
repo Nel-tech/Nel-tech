@@ -5,13 +5,9 @@
 
 <h2>🌟 Intro</h2>
  <p>
-I build fullstack web apps that are as polished on the frontend as they are powerful under the hood.
-
-From crafting responsive, scroll-friendly interfaces to designing fast, scalable backend systems, I care about performance, flow, and clean code.
-
-I turn designs into intuitive experiences, connect them to solid APIs, and deploy everything with speed and precision.
-
-Always learning. Always building. Always shipping.
+Yeah, I’m Nelson—a web developer with a head full of crazy ideas. If I can think it, I can build it.
+Take Tropiqk, for example—a platform I dreamed up to help emerging artists get real visibility and fans earn for sharing music. It’s not live yet… but yep, I built it.
+Basically, if there’s a solution in my head, I’ll figure out a way to make it real. And I don’t do half-measures—I make it fast, smooth, and actually fun to use.
 </p>
 
 <h2>🚀 Skills</h2>
