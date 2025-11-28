@@ -5,7 +5,7 @@
 
 <h2>🌟 Intro</h2>
  <p>
-Yeah, I’m Nelson—a web developer with a head full of crazy ideas. If I can think it, I can build it.
+A web developer with a head full of crazy ideas. If I can think it, I can build it.
 Take Tropiqk, for example—a platform I dreamed up to help emerging artists get real visibility and fans earn for sharing music. It’s not live yet… but yep, I built it.
 Basically, if there’s a solution in my head, I’ll figure out a way to make it real. And I don’t do half-measures—I make it fast, smooth, and actually fun to use.
 </p>
